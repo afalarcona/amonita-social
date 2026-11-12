@@ -1,0 +1,26 @@
+{
+ "post1": {
+  "html": "<h1>Crecer no es un salto.<br>Es una espiral.</h1><div class=bar></div><p>Levantamos cómo funciona tu negocio, analizamos dónde está la oportunidad, implementamos la mejora y la medimos.</p><p style='margin-top:36px'><b>Y volvemos a empezar.</b></p>",
+  "foot": "<span>Estrategia · Producto · Procesos · Tecnología</span>"
+ },
+ "post2_1": {
+  "html": "<h1>¿Cuánto le pagas a las apps de delivery cada mes?</h1><div class=bar></div><p>Haz la cuenta antes de seguir deslizando. →</p>",
+  "foot": "<span>Amonita para locales</span><span>1/4</span>"
+ },
+ "post2_2": {
+  "html": "<h1 class=m>Las apps suelen cobrar entre <span class=k>25% y 30%</span> por pedido.</h1><div class=bar></div><p>Ejemplo: si vendes <b>$5.000.000</b> al mes por apps, pagas entre <b>$1.250.000 y $1.500.000</b> en comisiones.</p><p style='margin-top:30px'>Cada mes.</p>",
+  "foot": "<span>Amonita para locales</span><span>2/4</span>"
+ },
+ "post2_3": {
+  "html": "<h1 class=m>Tu propia tienda online.</h1><div class=bar></div><ol><li><span>1</span>Con tu marca y en tu dominio.</li><li><span>2</span>Delivery y retiro, con comandas automáticas.</li><li><span>3</span>Club de socios para que tus clientes vuelvan.</li><li><span>4</span>Sin comisión por pedido.</li></ol>",
+  "foot": "<span>Amonita para locales</span><span>3/4</span>"
+ },
+ "post2_4": {
+  "html": "<h1 class=m>Calcula cuánto te queda a ti.</h1><div class=bar></div><p>Usa la calculadora de comisiones y agenda una demo.</p><div class=pill>amonita.cl/locales</div>",
+  "foot": "<span>Amonita para locales</span><span>4/4</span>"
+ },
+ "post3": {
+  "html": "<h1 class=m>Product Manager como servicio.</h1><div class=bar></div><p>El rol que ordena a las empresas de tecnología, aplicado a tu negocio:</p><ol style='margin-top:44px'><li><span>→</span>Decide qué hacer primero.</li><li><span>→</span>Conecta lo que pide el cliente con lo que hace el equipo.</li><li><span>→</span>Se asegura de que las cosas salgan.</li></ol>",
+  "foot": "<span>Primera conversación sin costo</span><span>amonita.cl</span>"
+ }
+}
