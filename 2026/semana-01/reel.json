@@ -1,0 +1,7 @@
+{"nombre": "reel_comisiones",
+ "escenas": [
+  {"dur": 3, "html": "<h1>¿Vendes por apps de delivery?</h1><div class=bar></div><p>Mira esto antes de tu próximo pedido.</p>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 4, "html": "<h1 class=m>Las apps suelen cobrar entre <span class=k>25% y 30%</span> por pedido.</h1>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 4.5, "html": "<h1 class=m>Con <span class=k>$5.000.000</span> al mes por apps…</h1><div class=bar></div><p>pagas entre <b>$1.250.000 y $1.500.000</b> en comisiones.</p><p style='margin-top:30px'><b>Cada mes.</b> (ejemplo)</p>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 4.5, "html": "<h1 class=m>Tu propia tienda online.<br>Sin comisión por pedido.</h1><div class=bar></div><p>Tu marca, delivery y retiro, club de socios.</p><div class=pill>amonita.cl/locales</div>", "foot": "<span>Agenda una demo</span>"}
+ ]}
