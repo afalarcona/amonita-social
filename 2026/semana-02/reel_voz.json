@@ -1,0 +1,35 @@
+{
+  "nombre": "prueba2_comisiones",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "min": 2.6,
+      "voz": "Viernes, nueve de la noche. La cocina a full.",
+      "html": "<div class=tag>Viernes · 21:00</div><h1>Suena la app.<br>Otra vez.</h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Cada pedido que entra por la app llega con una parte que no es tuya.",
+      "html": "<h1 class=m>Cada pedido<br>de app trae<br><span class=k>una parte<br>que no es tuya.</span></h1>"
+    },
+    {
+      "bloque": "agitacion",
+      "voz": "Las apps suelen cobrar entre veinticinco y treinta por ciento. Haz la cuenta con lo que vendes en un mes.",
+      "html": "<div class=tag>Ejemplo</div><h1 class=m><span class=k>$5.000.000</span><br>en ventas por apps</h1><div class=bar></div><p>Con una comisión de 25%:<br><b class=big>$1.250.000 al mes</b><br>que no llegan a tu caja.</p>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Con Amonita para locales tienes tu propia tienda online, con tu marca, y los pedidos llegan directo a tu cocina. Sin comisión por pedido.",
+      "html": "<h1 class=m>Tu propia<br>tienda online.</h1><ol><li><span>1</span>Con tu marca</li><li><span>2</span>Delivery y retiro</li><li><span>3</span>Pedidos directo a cocina</li><li><span>4</span>Sin comisión por pedido</li></ol>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.5,
+      "voz": "Haz la cuenta con tus números en amonita punto cl barra locales.",
+      "subtitulo": "Haz la cuenta con tus números en amonita.cl/locales",
+      "html": "<h1 class=m>Haz la cuenta<br>con tus números.</h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}
