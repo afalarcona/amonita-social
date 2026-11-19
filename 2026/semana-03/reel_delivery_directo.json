@@ -1,0 +1,25 @@
+{
+  "nombre": "s03_3_delivery_directo",
+  "formato": "Tienda web propia con delivery o retiro (y apps)",
+  "enfoque": "Rentabilidad y recompra: pasar al cliente de la app a pedido directo",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {"bloque": "gancho", "min": 2.0,
+     "voz": "Ese cliente te conoció por la app.",
+     "html": "<div class=tag>Delivery</div><h1>Te conoció<br><span class=k>por la app.</span></h1>"},
+    {"bloque": "problema",
+     "voz": "Si vuelve a pedir por ahí, cada pedido paga comisión otra vez.",
+     "html": "<h1 class=m>Si vuelve<br>por la app,<br><span class=k>pagas comisión<br>otra vez.</span></h1>"},
+    {"bloque": "desarrollo",
+     "voz": "Por eso cada comanda de la app sale con un QR que lo invita a pedirte directo y sumar sellos en tu club.",
+     "html": "<h1 class=m>Un QR<br>en cada bolsa.</h1><div class=bar></div><p>La comanda de la app lo invita<br>a <b>pedirte directo</b> y sumar<br>sellos en tu club.</p>"},
+    {"bloque": "agitacion",
+     "voz": "La próxima vez pide en tu tienda, con tu marca, y sin comisión por pedido.",
+     "html": "<h1 class=m>La próxima,<br>en tu tienda.</h1><ol><li><span>1</span>Con tu marca</li><li><span>2</span>Delivery o retiro</li><li><span>3</span>Sin comisión por pedido</li></ol>"},
+    {"bloque": "cierre", "min": 3.5,
+     "voz": "La app, para que te conozcan. Tu tienda, para que vuelvan. Agenda una demo en amonita punto cl barra locales.",
+     "subtitulo": "La app, para que te conozcan. Tu tienda, para que vuelvan. amonita.cl/locales",
+     "html": "<h1 class=m>La app para<br>conocerte.<br><span class=k>Tu tienda<br>para volver.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"}
+  ]
+}

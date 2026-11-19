@@ -1,0 +1,37 @@
+{
+  "nombre": "s03_2_meson_qr",
+  "formato": "Mesón con autoservicio (QR en el punto de venta)",
+  "enfoque": "Procesos: menos fila y caja más libre",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "min": 2.0,
+      "voz": "La fila llega a la puerta.",
+      "html": "<div class=tag>13:15 · Mesón</div><h1>La fila llega<br><span class=k>a la puerta.</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Mientras uno elige, cinco esperan. Y la caja no da abasto.",
+      "html": "<h1>Uno elige.<br><span class=k>Cinco esperan.</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Con un QR en el mesón, tu cliente ve la carta en su celular, pide y paga sin hacer la fila.",
+      "html": "<h1 class=m>Pide desde<br>su celular.</h1><ol><li><span>1</span>Escanea el QR del mesón</li><li><span>2</span>Elige y paga ahí mismo</li><li><span>3</span>Retira cuando está listo</li></ol>"
+    },
+    {
+      "bloque": "agitacion",
+      "voz": "El pedido entra directo a cocina, y en su pantalla ve cuándo retirarlo.",
+      "html": "<div class=tag>En su celular</div><h1 class=m>Listo,<br>retíralo en<br><span class=k>Mostrador.</span></h1>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.5,
+      "voz": "La caja queda para quien prefiere pagar ahí. Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "La caja queda para quien prefiere pagar ahí. Agenda una demo en amonita.cl/locales",
+      "html": "<h1 class=m>Menos fila.<br><span class=k>La caja respira.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nombre": "s03_1_meson_club",
+  "formato": "Local chico, venta solo en mesón",
+  "enfoque": "Recompra (club de socios) y presencia sin venta online",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {"bloque": "gancho", "min": 2.0,
+     "voz": "Te compran, pagan y se van.",
+     "html": "<div class=tag>Venta en mesón</div><h1>Te compran.<br>Pagan.<br><span class=k>Se van.</span></h1>"},
+    {"bloque": "problema",
+     "voz": "Y no sabes quién era, ni si va a volver.",
+     "html": "<h1>¿Quién era?<br><span class=k>¿Va a volver?</span></h1>"},
+    {"bloque": "desarrollo",
+     "voz": "Pega un QR en el mesón. Tu cliente se une a tu club con su teléfono, y tú le sumas un sello en cada compra.",
+     "html": "<h1 class=m>Un QR<br>en el mesón.</h1><ol><li><span>1</span>Se une a tu club con su teléfono</li><li><span>2</span>Le sumas un sello en cada compra</li><li><span>3</span>Su premio llega como código</li></ol>"},
+    {"bloque": "agitacion",
+     "voz": "Y aunque no vendas online, tu carta igual aparece en internet, con tu horario y cómo llegar.",
+     "html": "<h1 class=m>Sin venta online,<br><span class=k>igual te encuentran.</span></h1><div class=bar></div><p>Tu carta, tu horario<br>y cómo llegar, en un enlace.</p>"},
+    {"bloque": "cierre", "min": 3.5,
+     "voz": "Que el de hoy vuelva. Agenda una demo en amonita punto cl barra locales.",
+     "subtitulo": "Que el de hoy vuelva. Agenda una demo en amonita.cl/locales",
+     "html": "<h1 class=m>Que el de hoy<br><span class=k>vuelva.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"}
+  ]
+}

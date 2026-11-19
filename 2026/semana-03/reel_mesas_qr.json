@@ -1,0 +1,37 @@
+{
+  "nombre": "s03_5_mesas_qr",
+  "formato": "Mesas con autoservicio del comensal (QR en la mesa)",
+  "enfoque": "Satisfacción y recompra: pedir y pagar sin esperar, y club al pagar",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "min": 2.0,
+      "voz": "Quieren pagar. ¿Y el garzón?",
+      "html": "<div class=tag>Fin de la comida</div><h1>¿Y el<br><span class=k>garzón?</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Levantar la mano, esperar la cuenta y dividirla entre seis.",
+      "html": "<h1 class=m>Esperar la cuenta.<br><span class=k>Dividirla<br>entre seis.</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Con un QR en la mesa, cada uno pide desde su celular, y la ronda llega directo a cocina.",
+      "html": "<h1 class=m>Un QR<br>en cada mesa.</h1><ol><li><span>1</span>Cada uno pide desde su celular</li><li><span>2</span>La ronda va directo a cocina</li><li><span>3</span>Llaman al garzón con un botón</li></ol>"
+    },
+    {
+      "bloque": "agitacion",
+      "voz": "Al final, cada uno paga lo suyo, o en partes iguales, con propina, desde la mesa.",
+      "html": "<h1 class=m>Cada uno<br><span class=k>paga lo suyo.</span></h1><div class=bar></div><p>O en partes iguales,<br>o la cuenta completa.<br><b>Con propina.</b></p>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.5,
+      "voz": "Y al pagar, lo invitas a tu club para que vuelva. Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "Y al pagar, lo invitas a tu club para que vuelva. amonita.cl/locales",
+      "html": "<h1 class=m>Pagó.<br><span class=k>Ahora vuelve.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}

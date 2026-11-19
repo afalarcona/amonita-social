@@ -1,0 +1,37 @@
+{
+  "nombre": "s03_4_mesas_garzon",
+  "formato": "Atención en mesas tradicional (con garzón)",
+  "enfoque": "Procesos y satisfacción: plato a tiempo y comanda sin confusiones",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "min": 2.0,
+      "voz": "Salón lleno, y dos garzones.",
+      "html": "<div class=tag>Sábado · 21:30</div><h1>Salón lleno.<br><span class=k>Dos garzones.</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Un plato se enfría en el pase, y nadie sabe de qué mesa era.",
+      "html": "<h1 class=m>Un plato<br>se enfría<br><span class=k>en el pase.</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Con el salón en el celular, tu garzón ve qué mesa está en cocina y qué plato ya está listo para servir.",
+      "html": "<h1 class=m>Tu salón en<br>el celular<br>del garzón.</h1><ol><li><span>1</span>Cada mesa con su estado</li><li><span>2</span>Plato listo para servir</li><li><span>3</span>Pre-cuenta por persona</li></ol>"
+    },
+    {
+      "bloque": "agitacion",
+      "voz": "Y cada ronda llega a cocina con el nombre de quien pidió. Nadie pregunta de quién era la lasaña.",
+      "html": "<div class=tag>Comanda</div><h1 class=m>Mesa 7<br><span class=k>ronda 2</span></h1><div class=bar></div><p><b>Lorena</b> · Lasaña<br><b>Pedro</b> · Risotto<br><b>Para compartir</b> · Pan de ajo</p>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.5,
+      "voz": "Menos vueltas para tu equipo, mejor servicio en la mesa. Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "Menos vueltas para tu equipo, mejor servicio en la mesa. amonita.cl/locales",
+      "html": "<h1 class=m>Menos vueltas.<br><span class=k>Mejor servicio.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}
