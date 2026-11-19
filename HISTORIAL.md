@@ -12,3 +12,4 @@
 | 03 | 2026-11-25 12:30 | Trial Reel 30 s | Delivery: QR en la comanda de la app para pedir directo (rentabilidad y recompra) | Programado en Metricool |
 | 03 | 2026-11-26 12:30 | Reel 30 s (IG y FB) | Mesas con garzón: salón en el celular y rondas con nombre (procesos y satisfacción) | Programado en Metricool |
 | 03 | 2026-11-27 12:30 | Reel 30 s (IG y FB) | Mesas con QR: pedir y pagar desde la mesa, y club al pagar (satisfacción y recompra) | Programado en Metricool |
+| 04 | 2026-11-21 12:30 | Trial Reel 17 s | Avisos por WhatsApp: menos llamadas de "¿y mi pedido?" (procesos) | Borrador en Metricool (pendiente aprobación) |
