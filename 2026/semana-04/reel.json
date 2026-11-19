@@ -1,0 +1,7 @@
+{"nombre": "reel_avisos_whatsapp",
+ "escenas": [
+  {"dur": 3, "html": "<p style='margin-bottom:30px'><b>Viernes, 21:00</b></p><h1>Suena el teléfono.<br><span class=k>Otra vez.</span></h1>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 4, "html": "<h1 class=m>“Hola, ¿y mi pedido?”</h1><div class=bar></div><p>Cada llamada saca a alguien de la <b>cocina</b> o de la <b>caja</b>.</p>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 5, "html": "<h1 class=m>Que el aviso<br>llegue <span class=k>solo.</span></h1><ol style='margin-top:50px'><li><span>1</span>Tu cliente pide en tu tienda online</li><li><span>2</span>Recibe los avisos de su pedido por WhatsApp</li><li><span>3</span>Tu equipo sigue cocinando</li></ol>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 5, "html": "<h1 class=m>Menos llamadas.<br><span class=k>Más foco en cocina.</span></h1><div class=bar></div><p>Tienda propia, sin comisión por pedido.</p><div class=pill>amonita.cl/locales</div>", "foot": "<span>Agenda una demo</span>"}
+ ]}
