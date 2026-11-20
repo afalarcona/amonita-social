@@ -14,6 +14,7 @@ Contenido de redes sociales de Amonita (amonita.cl). Las imágenes de este repo 
 
 ## Reels (Trial Reels)
 
+- **Pausado:** Instagram exige un mínimo de seguidores para crear Trial Reels y la cuenta aún no lo cumple (error de Metricool del 2026-11-20). Mientras tanto se publica como Reel normal (`instagramData.type = REEL`).
 - 1 Trial Reel por semana (solo lo ven quienes no siguen la cuenta: sirve para probar temas y captar seguidores nuevos).
 - Escribir `2026/semana-NN/reel.json` (ver `2026/semana-01/reel.json`): 3 a 5 escenas, 14 a 20 segundos en total, gancho en la primera escena (máx. 3 s).
 - Generar: `python3 herramientas/reel.py 2026/semana-NN` → `reel_*.mp4` (1080×1920, 30 fps, H.264, audio silencioso) + portada.
