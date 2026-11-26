@@ -13,5 +13,10 @@
 | 03 | 2026-11-26 12:30 | Reel 30 s (IG y FB) | Mesas con garzón: salón en el celular y rondas con nombre (procesos y satisfacción) | Programado en Metricool |
 | 03 | 2026-11-27 12:30 | Reel 30 s (IG y FB) | Mesas con QR: pedir y pagar desde la mesa, y club al pagar (satisfacción y recompra) | Programado en Metricool |
 | 04 | 2026-11-21 12:30 | Trial Reel 17 s | Avisos por WhatsApp: menos llamadas de "¿y mi pedido?" (procesos) | Borrador en Metricool (pendiente aprobación) |
+| 05 | 2026-11-28 12:30 | Trial Reel 17 s (solo IG) | Analítica: ¿qué día vendes menos? Decidir con datos y no a ojo | Programado en Metricool (automático). Riesgo: Instagram puede rechazarlo por falta de seguidores |
+| 05 | 2026-11-30 12:30 | Carrusel 5 (IG y FB) | Fila de almuerzo: 4 ideas para que avance (educativo; viene del Reel "Mesón con QR", el de mejor alcance) | Programado en Metricool (automático) |
+| 05 | 2026-12-02 12:30 | Imagen (IG y FB) | Método: antes de comprar otra herramienta, mira el proceso | Programado en Metricool (automático) |
 
 > 2026-11-20: Metricool rechazó los Trial Reels ("Trial Reel Not Enough Followers"): la cuenta todavía no tiene los seguidores que pide Instagram. Se pasaron a Reel normal.
+
+> 2026-11-26: el Reel "Mesón con QR" (24-11) fue el de mejor rendimiento hasta ahora (alcance 15, 20 vistas, 31% de vistas completas); se convirtió en el carrusel del 30-11. El Reel de avisos por WhatsApp (21-11) fue el más bajo (alcance 6).
