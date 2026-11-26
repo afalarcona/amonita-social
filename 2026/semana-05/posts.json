@@ -1,0 +1,26 @@
+{
+ "post1_1": {
+  "html": "<h1>Hora de almuerzo.<br>La fila llega a la puerta.</h1><div class=bar></div><p>4 ideas para que avance más rápido. →</p>",
+  "foot": "<span>Guía para locales</span><span>1/5</span>"
+ },
+ "post1_2": {
+  "html": "<h1 class=m><span class=k>1.</span> Que decidan antes de llegar a la caja.</h1><div class=bar></div><p>Carta visible desde la fila, o en el celular con un QR. El que llega a pagar ya sabe qué quiere.</p>",
+  "foot": "<span>Guía para locales</span><span>2/5</span>"
+ },
+ "post1_3": {
+  "html": "<h1 class=m><span class=k>2.</span> Separa cobrar de entregar.</h1><div class=bar></div><p>Si la misma persona cobra, arma y entrega, la fila se detiene cada vez que se da vuelta.</p>",
+  "foot": "<span>Guía para locales</span><span>3/5</span>"
+ },
+ "post1_4": {
+  "html": "<h1 class=m><span class=k>3.</span> Llama por nombre, no por memoria.</h1><div class=bar></div><p>Un nombre o número por pedido evita el “¿esto era tuyo?” y los platos cruzados.</p><h1 class=m style='margin-top:70px'><span class=k>4.</span> Deja que pidan y paguen sin fila.</h1>",
+  "foot": "<span>Guía para locales</span><span>4/5</span>"
+ },
+ "post1_5": {
+  "html": "<h1 class=m>Con un QR en el mesón, pedir y pagar no espera turno.</h1><div class=bar></div><p>El pedido entra directo a cocina. La caja queda para quien prefiere pagar ahí.</p><div class=pill>amonita.cl/locales</div>",
+  "foot": "<span>Amonita para locales</span><span>5/5</span>"
+ },
+ "post2": {
+  "html": "<h1 class=m>Antes de comprar otra herramienta, mira el proceso.</h1><div class=bar></div><p>Un software nuevo sobre un proceso desordenado solo hace el desorden <b>más rápido.</b></p><ol style='margin-top:44px'><li><span>1</span>Levanta cómo se hace hoy.</li><li><span>2</span>Encuentra dónde se traba.</li><li><span>3</span>Recién ahí, elige la herramienta.</li></ol>",
+  "foot": "<span>Primera conversación sin costo</span><span>amonita.cl</span>"
+ }
+}

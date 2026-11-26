@@ -1,0 +1,7 @@
+{"nombre": "reel_analitica",
+ "escenas": [
+  {"dur": 3, "html": "<h1>¿Qué día vendes <span class=k>menos?</span></h1><div class=bar></div><p>Responde sin mirar el cuaderno.</p>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 4, "html": "<h1 class=m>Muchos locales deciden <span class=k>a ojo.</span></h1><div class=bar></div><p>Qué promocionar, cuánto comprar, cuándo reforzar el turno.</p>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 5, "html": "<h1 class=m>Tus pedidos ya cuentan la historia.</h1><ol style='margin-top:50px'><li><span>1</span>Qué se vende más</li><li><span>2</span>Qué días y horas se llenan</li><li><span>3</span>Cómo cambia tu venta semana a semana</li></ol>", "foot": "<span>Amonita para locales</span>"},
+  {"dur": 5, "html": "<h1 class=m>Tienda propia, con tus números <span class=k>a la vista.</span></h1><div class=bar></div><p>Sin comisión por pedido.</p><div class=pill>amonita.cl/locales</div>", "foot": "<span>Agenda una demo</span>"}
+ ]}
