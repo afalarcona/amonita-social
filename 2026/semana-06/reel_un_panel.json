@@ -1,0 +1,31 @@
+{
+  "nombre": "s04_4_un_panel",
+  "formato": "Local con varios canales de venta",
+  "enfoque": "Procesos: todos los pedidos en un panel",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "voz": "Tres apps, teléfono y WhatsApp.",
+      "html": "<div class=tag>Hora punta</div><h1>Tres apps.<br>Teléfono.<br><span class=k>WhatsApp.</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Cada pedido en una pantalla distinta. Y alguno se queda sin hacer.",
+      "html": "<h1 class=m>Cada pedido<br>en otra pantalla.<br><span class=k>Alguno se pierde.</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "En Amonita todos entran al mismo panel, y la comanda se imprime sola en cocina.",
+      "html": "<h1 class=m>Todo en<br>un solo panel.</h1><ol><li><span>1</span>Web, WhatsApp y mesón</li><li><span>2</span>Teléfono y apps</li><li><span>3</span>Comanda impresa en cocina</li></ol>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.0,
+      "voz": "Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "Agenda una demo en amonita.cl/locales",
+      "html": "<h1 class=m>Una sola fila<br><span class=k>de pedidos.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}

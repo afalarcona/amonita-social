@@ -1,0 +1,31 @@
+{
+  "nombre": "s04_5_de_donde_llegan",
+  "formato": "Tienda web propia",
+  "enfoque": "Rentabilidad: saber qué canal vende",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "voz": "¿Tu Instagram vende?",
+      "html": "<h1>¿Tu Instagram<br><span class=k>vende?</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Sin datos, inviertes a ciegas.",
+      "html": "<h1 class=m>Sin datos,<br><span class=k>inviertes<br>a ciegas.</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Amonita registra de dónde llega cada pedido web: Instagram, Google o el QR de la bolsa.",
+      "html": "<h1 class=m>De dónde llega<br>cada pedido.</h1><ol><li><span>1</span>Instagram, Google o el QR</li><li><span>2</span>Visitas y pedidos por fuente</li><li><span>3</span>Ventas de cada canal</li></ol>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.0,
+      "voz": "Pon el esfuerzo donde vende. Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "Pon el esfuerzo donde vende. Agenda una demo en amonita.cl/locales",
+      "html": "<h1 class=m>Pon el esfuerzo<br><span class=k>donde vende.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}

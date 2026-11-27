@@ -1,0 +1,31 @@
+{
+  "nombre": "s04_2_cierre_caja",
+  "formato": "Cualquier local con caja",
+  "enfoque": "Procesos y rentabilidad: cuadrar la caja",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "voz": "La caja no cuadra.",
+      "html": "<div class=tag>Cierre de turno</div><h1>La caja<br><span class=k>no cuadra.</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Y nadie sabe en qué momento se perdió la plata.",
+      "html": "<h1 class=m>¿En qué<br>momento<br><span class=k>se descuadró?</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Con Amonita ves cada movimiento del turno, en orden y con el saldo al lado.",
+      "html": "<div class=tag>Movimientos del turno</div><h1 class=m>Todo en orden<br>de hora.</h1><ol><li><span>1</span>Pedidos y pagos</li><li><span>2</span>Egresos y rendiciones</li><li><span>3</span>El saldo en cada momento</li></ol>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.0,
+      "voz": "Así encuentras dónde está. Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "Así encuentras dónde está. Agenda una demo en amonita.cl/locales",
+      "html": "<h1 class=m>Así encuentras<br><span class=k>dónde está.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}

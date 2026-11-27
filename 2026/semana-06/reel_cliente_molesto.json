@@ -1,0 +1,31 @@
+{
+  "nombre": "s04_3_cliente_molesto",
+  "formato": "Delivery, retiro o mesas",
+  "enfoque": "Satisfacción: encuesta y alerta de cliente molesto",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "voz": "No reclama, no vuelve.",
+      "html": "<div class=tag>Cliente molesto</div><h1>No reclama.<br><span class=k>No vuelve.</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Y tú te enteras cuando ya es tarde.",
+      "html": "<h1 class=m>Te enteras<br><span class=k>cuando ya<br>es tarde.</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Después de cada pedido llega una encuesta de treinta segundos. Si alguien queda molesto, te avisa para que le escribas ese mismo día.",
+      "html": "<h1 class=m>Una encuesta<br>de 30 segundos.</h1><ol><li><span>1</span>Llega después de la entrega</li><li><span>2</span>Te avisa si quedó molesto</li><li><span>3</span>Le escribes ese mismo día</li></ol>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.0,
+      "voz": "Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "Agenda una demo en amonita.cl/locales",
+      "html": "<h1 class=m>Escúchalo<br><span class=k>antes de perderlo.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}

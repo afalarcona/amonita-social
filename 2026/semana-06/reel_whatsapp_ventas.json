@@ -1,0 +1,31 @@
+{
+  "nombre": "s04_1_whatsapp_ventas",
+  "formato": "Local que vende por WhatsApp",
+  "enfoque": "Procesos: pedidos de WhatsApp ordenados",
+  "voz": "es-CL-CatalinaNeural-Female",
+  "velocidad": 1.05,
+  "escenas": [
+    {
+      "bloque": "gancho",
+      "voz": "Catorce chats sin responder.",
+      "html": "<div class=tag>WhatsApp del local</div><h1>14 chats<br><span class=k>sin responder.</span></h1>"
+    },
+    {
+      "bloque": "problema",
+      "voz": "Copias el pedido a mano, y se te pasa la dirección.",
+      "html": "<h1 class=m>Copias el pedido<br>a mano.<br><span class=k>Se te pasa<br>la dirección.</span></h1>"
+    },
+    {
+      "bloque": "desarrollo",
+      "voz": "Conecta tu WhatsApp a Amonita: respondes desde el panel, y el pedido se arma al lado del chat.",
+      "html": "<h1 class=m>Tu WhatsApp<br>en el panel.</h1><ol><li><span>1</span>Sin responder, primero</li><li><span>2</span>El pedido se arma al lado</li><li><span>3</span>Directo a cocina</li></ol>"
+    },
+    {
+      "bloque": "cierre",
+      "min": 3.0,
+      "voz": "Agenda una demo en amonita punto cl barra locales.",
+      "subtitulo": "Agenda una demo en amonita.cl/locales",
+      "html": "<h1 class=m>Mismo WhatsApp.<br><span class=k>Pedidos en orden.</span></h1><div class=bar></div><div class=pill>amonita.cl/locales</div>"
+    }
+  ]
+}
