@@ -16,7 +16,14 @@
 | 05 | 2026-11-28 12:30 | Trial Reel 17 s (solo IG) | Analítica: ¿qué día vendes menos? Decidir con datos y no a ojo | Programado en Metricool (automático). Riesgo: Instagram puede rechazarlo por falta de seguidores |
 | 05 | 2026-11-30 12:30 | Carrusel 5 (IG y FB) | Fila de almuerzo: 4 ideas para que avance (educativo; viene del Reel "Mesón con QR", el de mejor alcance) | Programado en Metricool (automático) |
 | 05 | 2026-12-02 12:30 | Imagen (IG y FB) | Método: antes de comprar otra herramienta, mira el proceso | Programado en Metricool (automático) |
+| 06 | 2026-11-30 18:30 | Reel 18 s (IG y FB) | WhatsApp de ventas: el WhatsApp del local en el panel, pedido armado al lado del chat (procesos) | Programado en Metricool |
+| 06 | 2026-12-01 12:30 | Reel 18 s (IG y FB) | Cierre de caja: movimientos del turno con saldo para encontrar el descuadre (procesos y rentabilidad) | Programado en Metricool |
+| 06 | 2026-12-02 18:30 | Reel 20 s (IG y FB) | Cliente molesto: encuesta de 30 s y aviso para escribirle el mismo día (satisfacción) | Programado en Metricool |
+| 06 | 2026-12-03 12:30 | Reel 19 s (IG y FB) | Todo en un panel: web, WhatsApp, mesón, teléfono y apps, comanda impresa (procesos) | Programado en Metricool |
+| 06 | 2026-12-04 12:30 | Reel 19 s (IG y FB) | De dónde llegan los pedidos web: Instagram, Google o QR (rentabilidad) | Programado en Metricool |
 
 > 2026-11-20: Metricool rechazó los Trial Reels ("Trial Reel Not Enough Followers"): la cuenta todavía no tiene los seguidores que pide Instagram. Se pasaron a Reel normal.
 
 > 2026-11-26: el Reel "Mesón con QR" (24-11) fue el de mejor rendimiento hasta ahora (alcance 15, 20 vistas, 31% de vistas completas); se convirtió en el carrusel del 30-11. El Reel de avisos por WhatsApp (21-11) fue el más bajo (alcance 6).
+
+> 2026-11-26: semana 06, primeros reels de 18-20 s con gancho de 3 s o menos y sin fundido inicial. El 30-11 y el 02-12 van a las 18:30 porque a las 12:30 ya hay publicación de la semana 05.
